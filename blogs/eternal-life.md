@@ -11,10 +11,14 @@
 First, Black cannot play at position B because if Black does, the White could play at A, and then the inner space becomes a bluky five. Even if Black captures all white pieces inside, black will die. Therefore, to live, Black has to play at position A. But a cycle occurs as a result, over and over, and the game last forever. 
 
 ![](imgs/eternal_life_demo_1.png)
+
 ![](imgs/eternal_life_demo_2.png)
+
 ![](imgs/eternal_life_demo_3.png)
+
 ![](imgs/eternal_life_demo_4.png)
 
+![](imgs/eternal_life_demo_5.png)
 
 
 ## Professional Games
