@@ -37,7 +37,7 @@ Though recent Chinese Go rule use [PSK](https://senseis.xmp.net/?PositionalVsSit
 
 In extreme situation, we could use the shape of eternal life to live and here is a tsumego challenge! (Credit to content creator [云小天1118](https://space.bilibili.com/282175413)) 
 
-There are two possible eternal life shape in this special 7 x 7 board. Which one is the true one? (White first alive) Let's play.
+There are two possible eternal life shapes in this special 7 x 7 board. But which one could help white to live? (White first alive) Let's play.
 ![](imgs/eternal_life_tsumego.png)
 
 Solution: [https://www.bilibili.com/video/BV1oJ411q7yr](https://www.bilibili.com/video/BV1oJ411q7yr)
