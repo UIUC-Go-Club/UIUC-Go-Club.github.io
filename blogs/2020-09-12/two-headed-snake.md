@@ -54,7 +54,8 @@ It's a bit hard to search for professional games that contain two-headed snakes.
 
 
 ## References: 
-
+|     |     |
+| --- | --- |
 [1] | 大富豪 魏征梦境斩龙王?太子出海扬双头 [https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount](https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount)
 
 [2] | 鬼手魔手绝妙好题，首尾相顾笔走龙蛇，两假眼诡秘难逃生天 [云小天1118](https://space.bilibili.com/282175413)
