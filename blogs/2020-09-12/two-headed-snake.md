@@ -57,7 +57,7 @@ It's a bit hard to search for professional games that contain two-headed snakes.
 
 ## References: 
 - [1] 大富豪 魏征梦境斩龙王?太子出海扬双头 [https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount](https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount) 
-- [2] 鬼手魔手绝妙好题，首尾相顾笔走龙蛇，两假眼诡秘难逃生天 [云小天1118](https://space.bilibili.com/282175413) 
+- [2] 鬼手魔手绝妙好题，首尾相顾笔走龙蛇，两假眼诡秘难逃生天 [云小天1118 https://space.bilibili.com/282175413](https://space.bilibili.com/282175413) 
 - [3] 假眼活 [https://zh.wikipedia.org/wiki/%E5%81%87%E7%9C%BC%E6%B4%BB](https://zh.wikipedia.org/wiki/%E5%81%87%E7%9C%BC%E6%B4%BB) 
 - [4] False eyes and snakes, [https://homepages.cwi.nl/~aeb/go/misc/snakes/snakes.html](https://homepages.cwi.nl/~aeb/go/misc/snakes/snakes.html) 
-- [5] Two-Headed Dragon https://senseis.xmp.net/?TwoHeadedDragon
+- [5] Two-Headed Dragon [https://senseis.xmp.net/?TwoHeadedDragon](https://senseis.xmp.net/?TwoHeadedDragon)
