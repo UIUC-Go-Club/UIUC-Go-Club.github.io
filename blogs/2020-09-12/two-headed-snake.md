@@ -1,13 +1,15 @@
 # Shape of the Week: Two-Headed Snake
 ## False Eye? Live, or Dead?
-Today, we are going to talk about using false eyes to live. Yes, we want to use false eyes to live. The first lesson we learn to Go is pieces need two true eyes to live. But can you come up with a counterexample? How about this? The white has nothing but false eyes, but can you kill the white?
+Today, we are going to talk about an extraordinary kind of eye. The first lesson we learn to Go is pieces need two true eyes to live. Generally speaking, for an eye at the edge or corner of the board, if any of the diagonal position is captured by the enemy, it becomes a false eye. For an eye in the middle of the board,  if two of diagonal position is captured by the enemy, it becomes a false eye. See [Basic shapes of a false eye](https://senseis.xmp.net/?FalseEye). But can you come up with a counterexample? How about this? Are the white's eyes false eyes or true eyes? Can you kill the white?
 
 ![](imgs/two-headed-snake-1.png)
 
-The while pieces chain together to form a cycle. Though none of the white eyes are true, the black cannot kill the white. Don't feel confused. What is rational is actual and what is actual is rational. The common sense that two true eyes make your pieces alive is talk of experience, which is a great summary true most of the time. But common sense is not the full story. 
+The while pieces chain together to form a cycle. Though none of the white eyes looks like a true eye, the black cannot kill the white. Don't feel confused. What is rational is actual and what is actual is rational. The common sense that two true eyes make your pieces alive is talk of experience, which is a great summary true most of the time. But common sense is not the full story. This peculiar shape in Go is called the two-headed snake, or two-headed dragon.
 
 
 ## Two-Headed snake (双头蛇)
+A *Two-Headed Snake* (also known as *Two-Headed Dragon*, or *Dragon Eats its Own Tail*) is a group that has [two eyes](https://senseis.xmp.net/?TwoEyes) that are at first sight [false eyes](https://senseis.xmp.net/?FalseEye), nevertheless these two eyes are enough for [living](https://senseis.xmp.net/?Alive). [5]
+
 Now, use your imagination, could you come up with more instances of Two-Headed snakes? What would they look like if they occur at the corners of the board,  edges of the board, and middle of the board?
 
 
@@ -55,9 +57,7 @@ It's a bit hard to search for professional games that contain two-headed snakes.
 
 ## References: 
 - [1] 大富豪 魏征梦境斩龙王?太子出海扬双头 [https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount](https://share.yikeweiqi.com/gonews/detail?id=37003&type=WeixinReadCount) 
-
 - [2] 鬼手魔手绝妙好题，首尾相顾笔走龙蛇，两假眼诡秘难逃生天 [云小天1118](https://space.bilibili.com/282175413) 
-
 - [3] 假眼活 [https://zh.wikipedia.org/wiki/%E5%81%87%E7%9C%BC%E6%B4%BB](https://zh.wikipedia.org/wiki/%E5%81%87%E7%9C%BC%E6%B4%BB) 
-
 - [4] False eyes and snakes, [https://homepages.cwi.nl/~aeb/go/misc/snakes/snakes.html](https://homepages.cwi.nl/~aeb/go/misc/snakes/snakes.html) 
+- [5] Two-Headed Dragon https://senseis.xmp.net/?TwoHeadedDragon
