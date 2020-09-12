@@ -1,6 +1,6 @@
 # Shape of the Week: Two-Headed Snake
-## False Eye, Live, or Dead?
-Today, we are going to talk about using false eyes to live. Yes, we want to use false eyes to live. The first lesson we learn to Go is pieces need two true eyes to live. But can you come up with a counterexample? How about this?
+## False Eye? Live, or Dead?
+Today, we are going to talk about using false eyes to live. Yes, we want to use false eyes to live. The first lesson we learn to Go is pieces need two true eyes to live. But can you come up with a counterexample? How about this? The white has nothing but false eyes, but can you kill the white?
 
 ![](imgs/two-headed-snake-1.png)
 
