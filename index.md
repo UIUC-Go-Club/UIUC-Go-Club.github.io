@@ -8,6 +8,7 @@
 | [Two-Headed Snake](blogs/2020-09-12/two-headed-snake)         |   2020-09-12      |
 | [Symmetry shapes in Go](blogs/2020-09-19/symmetry-points)     |   2020-09-19      | 
 | [Syrup Ko](blogs/2020-09-26/syrup-ko)                         |   2020-09-26      |
+| [Two-Pieces Ko](blogs/2020-10-03/two-pieces-ko.md)            |   2020-10-03      |
 
 <!-- <table>
     <th>
