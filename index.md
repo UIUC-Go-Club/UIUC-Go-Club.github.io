@@ -2,12 +2,12 @@
 
 ## Events
 
-|   Event Name                                                                                      |   Date            |   
-|   ------------------                                                                              |   ----------      |
-| [2021 New Year Cup Started](https://mp.weixin.qq.com/s/bPjedUT2o6xc3yx41TpB6w)                    |   2021-01-18      |
-| [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                        |   2021-02-03      |
-| [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                |   2021-02-07      | 
-| [2021 Spring Round-Robin Tournament Signup](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
+|   News                                                                                                    |   Date            |   
+|   ------------------                                                                                      |   ----------      |
+| [2021 New Year Cup Started](https://mp.weixin.qq.com/s/bPjedUT2o6xc3yx41TpB6w)                            |   2021-01-18      |
+| [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                                |   2021-02-03      |
+| [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                        |   2021-02-07      | 
+| [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
 
 ## Past Blogs
 
