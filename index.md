@@ -7,6 +7,7 @@
 | [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                        |   2020-02-03      |
 | [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                |   2020-09-19      | 
 | [2021 Spring Round-Robin Tournament Signup](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2020-09-26      |
+
 ## Past Blogs
 |   Topic of the Week                                                       |   Date            |   
 |   ------------------                                                      |   ----------      |
