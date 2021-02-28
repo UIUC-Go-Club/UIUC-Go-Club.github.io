@@ -21,5 +21,3 @@
 | [I just wanna run ...](blogs/2020-10-10/The-most-hilarious-tsumego)       |   2020-10-10      |
 
 
-
-
