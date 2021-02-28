@@ -1,6 +1,7 @@
 # UIUC Go Club 
 
 ## Events
+
 |   Topic of the Week                                                                               |   Date            |   
 |   ------------------                                                                              |   ----------      |
 | [2021 New Year Cup Started](https://mp.weixin.qq.com/s/bPjedUT2o6xc3yx41TpB6w)                    |   2021-01-18      |
@@ -9,6 +10,7 @@
 | [2021 Spring Round-Robin Tournament Signup](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2020-09-26      |
 
 ## Past Blogs
+
 |   Topic of the Week                                                       |   Date            |   
 |   ------------------                                                      |   ----------      |
 | [Eternal Life](blogs/2020-09-05/eternal-life)                             |   2020-09-05      |
