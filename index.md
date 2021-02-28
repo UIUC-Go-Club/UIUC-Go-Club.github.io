@@ -1,4 +1,5 @@
 # UIUC Go Club 
+
 ## Events
 |   Topic of the Week                                                                               |   Date            |   
 |   ------------------                                                                              |   ----------      |
