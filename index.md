@@ -21,3 +21,12 @@
 | [Two-Pieces Ko](blogs/2020-10-03/two-pieces-ko)                           |   2020-10-03      |
 | [I just wanna run ...](blogs/2020-10-10/The-most-hilarious-tsumego)       |   2020-10-10      |
 
+
+## Resources
+
+|   Title                                                                                                         |
+|   ------------------                                                                                            | 
+| [Game: The Conquest of Go](https://store.steampowered.com/app/1264970/The_Conquest_of_Go)                       | 
+| [OGS: play Go online](https://online-go.com)                                                                    |  
+| [Go Glossary](https://en.wikipedia.org/wiki/List_of_Go_terms)                                                   |  
+
