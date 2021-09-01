@@ -8,6 +8,7 @@
 | [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                                |   2021-02-03      |
 | [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                        |   2021-02-07      | 
 | [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
+| [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-02-28      |
 
 ## Past Blogs
 
@@ -19,5 +20,4 @@
 | [Syrup Ko](blogs/2020-09-26/syrup-ko)                                     |   2020-09-26      |
 | [Two-Pieces Ko](blogs/2020-10-03/two-pieces-ko)                           |   2020-10-03      |
 | [I just wanna run ...](blogs/2020-10-10/The-most-hilarious-tsumego)       |   2020-10-10      |
-
 
