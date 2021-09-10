@@ -34,4 +34,4 @@
 
 |   pdf resource                                                                                            |   Date            |   
 |   ------------------                                                                                      |   ----------      |
-| [the Game of Go](pdf/The%20Game%20of%20Go)                                                                |   2021-09-10      |
+| [the Game of Go](pdf/The%20Game%20of%20Go.pdf)                                                            |   2021-09-10      |
