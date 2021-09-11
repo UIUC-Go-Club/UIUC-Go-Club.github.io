@@ -10,6 +10,16 @@
 | [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
 | [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-08-22      |
 
+
+
+## Past Teaching Sessions 
+
+| Slides                                                   | Topic                           | Date       |
+| -------------------------------------------------------- | ------------------------------- | ---------- |
+| [The Game of Go](teaching/The Game of Go 2021-09-04.pdf) | Intro, Ladders, Nets, Snapbacks | 2021-09-04 |
+
+
+
 ## Past Blogs
 
 |   Topic of the Week                                                       |   Date            |
@@ -22,17 +32,12 @@
 | [I just wanna run ...](blogs/2020-10-10/The-most-hilarious-tsumego)       |   2020-10-10      |
 
 
-## Resources
+
+## Other Resources
 
 |   Title                                                                                                         |
 |   ------------------                                                                                            |
 | [Game: The Conquest of Go](https://store.steampowered.com/app/1264970/The_Conquest_of_Go)                       |
 | [OGS: play Go online](https://online-go.com)                                                                    |
 | [Go Glossary](https://en.wikipedia.org/wiki/List_of_Go_terms)                                                   |
-
-## Past Teaching Sessions 
-
-| Slides                                                   | Topic                           | Date       |
-| -------------------------------------------------------- | ------------------------------- | ---------- |
-| [The Game of Go](teaching/The Game of Go 2021-09-04.pdf) | Intro, Ladders, Nets, Snapbacks | 2021-09-04 |
 
