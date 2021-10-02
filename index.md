@@ -18,8 +18,7 @@
 | --------------------------------------------------------     | ------------------------------- | ---------- |
 | [The Game of Go](teaching/The Game of Go 2021-09-04.pdf)     | Intro, Ladders, Nets, Snapbacks | 2021-09-04 |
 | [The Game of Go(II)](teaching/The Game of Go 2021-09-18.pdf) | Defense technique, Eyes         | 2021-09-18 |
-| [Go Opening Strategy](teaching/Go Opening Strategy.pdf)      | Opening Strategy                | 2021-10-02 |
-
+| [Go Opening Strategy](teaching/Go Opening Strategy.pdf)      | Go Opening Strategy             | 2021-09-18 |
 ## Past Blogs
 
 |   Topic of the Week                                                       |   Date            |
