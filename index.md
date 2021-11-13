@@ -10,7 +10,9 @@
 | [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
 | [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-08-22      |
 | [2021 UIUC & UCLA tournament](blogs/2021-10-30/tournament)                                                |   2021-10-30      |
-
+| [2021 UIUC & UCLA tournament(game 1)](https://www.bilibili.com/video/BV1rU4y1u7Rw?spm_id_from=333.999.0.0) |   2021-10-30      |
+| [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt?spm_id_from=333.999.0.0) |   2021-11-06      |
+| [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM?spm_id_from=333.999.0.0) |   2021-11-12      |
 
 
 ## Past Teaching Sessions 
