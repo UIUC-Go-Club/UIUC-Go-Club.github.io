@@ -9,6 +9,7 @@
 | [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                        |   2021-02-07      |
 | [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
 | [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-08-22      |
+| [2021 UIUC & UCLA tournament](blogs/2021-10-30/tournament)                                                |   2021-10-30      |
 
 
 

@@ -1,1 +1,1 @@
-# Tournament between UIUC abd UCLA
+![](imgs/UIUC&UCLA-tournament.png)
