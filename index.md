@@ -10,10 +10,10 @@
 | [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
 | [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-08-22      |
 | [2021 UIUC & UCLA tournament](blogs/2021-10-30/tournament)                                                |   2021-10-30      |
-| [2021 UIUC & UCLA tournament(game 1)](https://www.bilibili.com/video/BV1rU4y1u7Rw?spm_id_from=333.999.0.0) |   2021-10-30      |
-| [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt?spm_id_from=333.999.0.0) |   2021-11-06      |
-| [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM?spm_id_from=333.999.0.0) |   2021-11-12      |
-
+| [2021 UIUC & UCLA tournament(game 1)](https://www.bilibili.com/video/BV1rU4y1u7Rw)                        |   2021-10-30      |
+| [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt)                        |   2021-11-06      |
+| [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM)                        |   2021-11-12      |
+| [2021 UIUC & UCLA tournament(game 4)](https://www.bilibili.com/video/BV15M4y1P7g2)                        |   2021-11-12      |
 
 ## Past Teaching Sessions 
 
@@ -23,7 +23,8 @@
 | [The Game of Go(II)](teaching/The Game of Go II 2021-09-18.pdf) | Defense technique, Eyes      | 2021-09-18 |
 | [Go Opening Strategy(I)](teaching/Go Opening Strategy I 2021-10-02.pdf) | Go Opening Strategy  | 2021-10-02 |
 | [Go Opening Strategy(II)](teaching/Go Opening Strategy II 2021-10-16.pdf)| Go Opening Strategy II | 2021-10-17 |
-| [Go Capturing Technique](teaching/Go Capturing Technique II.pdf)| Genshin Impact | 2021-10-30 |
+| [Go Capturing Technique](teaching/Go Capturing Technique II 2021-10-30.pdf)| Capturing Techniques | 2021-10-30 |
+| [Ko](teaching/Ko (I) 2021-11-13.pdf)| Ko | 2021-11-13 |
 
 
 ## Past Blogs
