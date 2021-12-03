@@ -2,19 +2,23 @@
 
 ## Events
 
-|   News                                                                                                    |   Date            |
-|   ------------------                                                                                      |   ----------      |
-| [2021 New Year Cup Started](https://mp.weixin.qq.com/s/bPjedUT2o6xc3yx41TpB6w)                            |   2021-01-18      |
-| [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                                |   2021-02-03      |
-| [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                        |   2021-02-07      |
-| [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)    |   2021-02-28      |
-| [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                            |   2021-08-22      |
-| [2021 UIUC & UCLA tournament](blogs/2021-10-30/tournament)                                                |   2021-10-30      |
-| [2021 UIUC & UCLA tournament(game 1)](https://www.bilibili.com/video/BV1rU4y1u7Rw)                        |   2021-10-30      |
-| [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt)                        |   2021-11-06      |
-| [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM)                        |   2021-11-12      |
-| [2021 UIUC & UCLA tournament(game 4)](https://www.bilibili.com/video/BV15M4y1P7g2)                        |   2021-11-12      |
-| [2021 UIUC & UCLA tournament Game 1 & 2 Summary ](htmls/Competition Progress Report I.html)               |                   |
+|   News                                                                                                            |   Date            |
+|   ------------------                                                                                              |   ----------      |
+| [2021 New Year Cup Started](https://mp.weixin.qq.com/s/bPjedUT2o6xc3yx41TpB6w)                                    |   2021-01-18      |
+| [2021 Spring Club fair](https://mp.weixin.qq.com/s/C_GXdu8aPyoXi911MrlTPA)                                        |   2021-02-03      |
+| [2021 New Year Cup Final Match](https://mp.weixin.qq.com/s/qqjGcIu-OATsWwKjj3NNvA)                                |   2021-02-07      |
+| [2021 Spring Round-Robin Tournament Signup Started](https://mp.weixin.qq.com/s/yRQqs7kiX8RX8-bqhnFHUg)            |   2021-02-28      |
+| [2021 Quad Day (Club Fair)](https://mp.weixin.qq.com/s/k8W3jOAAhi-Q75IFcsQ-Vw)                                    |   2021-08-22      |
+| [2021 UIUC & UCLA tournament](blogs/2021-10-30/tournament)                                                        |   2021-10-30      |
+| [2021 UIUC & UCLA tournament(game 1)](https://www.bilibili.com/video/BV1rU4y1u7Rw)                                |   2021-10-30      |
+| [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt)                                |   2021-11-06      |
+| [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM)                                |   2021-11-12      |
+| [2021 UIUC & UCLA tournament(game 4)](https://www.bilibili.com/video/BV15M4y1P7g2)                                |   2021-11-12      |
+| [2021 UIUC & UCLA tournament Game 1 & 2 Summary ](htmls/Competition Progress Report I.html)                       |                   |
+| [2021 Apple Cup in-club Competition Registration Started ](https://mp.weixin.qq.com/s/05hF0U4jbypJQl6or0XqCw)     |                   |
+
+
+
 ## Past Teaching Sessions 
 
 | Slides                                                       | Topic                           | Date       |
