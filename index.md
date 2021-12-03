@@ -1,4 +1,7 @@
 # UIUC Go Club 
+Welcome to the home page of Go Club @ UIUC.
+We share our resources here.
+You can also follow us on Facebook at https://www.facebook.com/groups/uiucgo/
 
 ## Events
 
