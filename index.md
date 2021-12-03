@@ -14,8 +14,8 @@
 | [2021 UIUC & UCLA tournament(game 2)](https://www.bilibili.com/video/BV1QQ4y1S7Tt)                                |   2021-11-06      |
 | [2021 UIUC & UCLA tournament(game 3)](https://www.bilibili.com/video/BV1fg411K7EM)                                |   2021-11-12      |
 | [2021 UIUC & UCLA tournament(game 4)](https://www.bilibili.com/video/BV15M4y1P7g2)                                |   2021-11-12      |
-| [2021 UIUC & UCLA tournament Game 1 & 2 Summary ](htmls/Competition Progress Report I.html)                       |                   |
-| [2021 Apple Cup in-club Competition Registration Started ](https://mp.weixin.qq.com/s/05hF0U4jbypJQl6or0XqCw)     |                   |
+| [2021 UIUC & UCLA tournament Game 1 & 2 Summary ](htmls/Competition Progress Report I.html)                       |   2021-11-22      |
+| [2021 Apple Cup in-club Competition Registration Started ](https://mp.weixin.qq.com/s/05hF0U4jbypJQl6or0XqCw)     |   2021-11-12      |
 
 
 
