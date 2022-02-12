@@ -55,3 +55,9 @@ You can also follow us on Facebook [here](https://www.facebook.com/groups/uiucgo
 | [OGS: play Go online](https://online-go.com)                                                                    |
 | [Go Glossary](https://en.wikipedia.org/wiki/List_of_Go_terms)                                                   |
 
+
+
+## Past Practice Questions
+|   Title                                                                                                         |
+|   ------------------                                                                                            |
+| [1.29](GIFanswers/gif.html)                                                                                     |
