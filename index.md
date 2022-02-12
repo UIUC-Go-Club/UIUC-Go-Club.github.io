@@ -58,6 +58,8 @@ You can also follow us on Facebook [here](https://www.facebook.com/groups/uiucgo
 
 
 ## Past Practice Questions
-|   Title                                                                                                         |
-|   ------------------                                                                                            |
-| [1.29](GIFanswers/gif.html)                                                                                     |
+
+|   Title                                                                                                      |
+|   ------------------                                                                                         |
+| [Practice for 1.29](GIFanswers/gif.html)                                                                     |
+| [Place holder](GIFanswers/gif.html)                                                                          |
